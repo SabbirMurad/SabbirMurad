@@ -1,84 +1,10 @@
-<style>
-#bio {
-  max-width: 560px;
-  line-height: 1.5;
-}
-
-#social-header {
-  display: flex;
-  gap: 12px;
-  align-items: center;
-}
-
-#social-header img {
-  width: 24px;
-  height: 24px;
-}
-
-#social-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  gap: 18px;
-  flex-wrap: wrap;
-}
-#social-container .social-item {
-  background: #ffffff;
-  border-radius: 6px;
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  gap: 6px;
-  padding: 8px 12px;
-  height: 40px;
-}
-
-#social-container .social-item img {
-  width: 20px;
-  height: 20px;
-}
-
-#social-container .social-item p {
-  color: #181818;
-  font-weight: 500;
-  font-size: 14px;
-}
-</style>
-
 <h1>Hi there, I'm Sabbir 👋</h1>
-<p id="bio">A self-taught full-stack developer, my favorite language is Rust, I know you can tell a lot about what kind of person I am from that alone 😅</p>
+A self-taught full-stack developer, my favorite language is Rust, I know you can tell a lot about what kind of person I am from that alone 😅
 <br>
-<div id="social-header">
-  <img src="./icon/connect.svg">
-  <h2>Socials:</h2>
-</div>
-<div id="social-container">
-    <a href="https://sabbirhassan.com" target="_blank" class="social-item">
-        <img src="./icon/portfolio.svg">
-        <p>Portfolio</p>
-    </a>
-    <a href="https://discord.gg/YUHkqk6FGn" target="_blank" class="social-item">
-        <img src="./icon/discord.svg">
-        <p>Discord</p>
-    </a>
-    <a href="https://www.facebook.com/sabbir.murad.503" target="_blank" class="social-item">
-        <img src="./icon/facebook.svg">
-        <p>Facebook</p>
-    </a>
-    <a href="mailto:sbbir0087@gmail.com" class="social-item">
-        <img src="./icon/email.svg">
-        <p>Email</p>
-    </a>
-</div>
+<br>
+<h2>🌐 Socials:</h2>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YUHkqk6FGn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Yf5tgr2Jh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbbir0087@gmail.com) 
 <br>
 <br>
 <h2>💻 Tech Stack:</h2>
