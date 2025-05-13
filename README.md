@@ -1,5 +1,5 @@
 ## Hi there, I'm Sabbir 👋
-A self tought fullstack developer, my favorite language is Rust, I know you can tell a lot about what kind of person I am from that alone 😅
+A self-taught full-stack developer, my favorite language is Rust, I know you can tell a lot about what kind of person I am from that alone 😅
 
 
 ## 🌐 Socials:
