@@ -84,18 +84,11 @@ of this page does.
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=SabbirMurad&hide_border=true&disable_animations=true&background=00000000&ring=4D9DFF&fire=4D9DFF&currStreakNum=E9EEF4&sideNums=E9EEF4&currStreakLabel=4D9DFF&sideLabels=98A4B4&dates=5E6B7D&stroke=212836" width="495">
 </picture>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabbirMurad&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabbirMurad&theme=github_light">
-    <img alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabbirMurad&theme=github_dark" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirMurad&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirMurad&theme=github_light">
-    <img alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirMurad&theme=github_dark" width="48%">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg">
+  <img alt="Language breakdown by code and by repository" src="./assets/languages-dark.svg" width="100%">
+</picture>
 
 ## Get in touch
 

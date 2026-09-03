@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="262" viewBox="0 0 1000 262" role="img" aria-label="Language breakdown across 22 public repositories">
+  <defs><linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#090D15"/><stop offset="100%" stop-color="#101825"/></linearGradient></defs>
+  <rect width="1000" height="262" rx="18" fill="url(#lbg)"/>
+  <g style="font-family: 'Segoe UI', Inter, system-ui, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+  <text x="60" y="46" font-size="12" font-weight="600" letter-spacing="1.6" fill="#5E6B7D">BY CODE</text>
+  <clipPath id="clipBYCODE"><rect x="60" y="62" width="880" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#clipBYCODE)">
+    <rect x="60" y="62" width="880" height="10" fill="#1B2434"/>
+    <rect x="60.00" y="62" width="286.85" height="10" fill="#00B4AB"/>
+    <rect x="346.85" y="62" width="147.35" height="10" fill="#DEA584"/>
+    <rect x="494.20" y="62" width="131.33" height="10" fill="#E34C26"/>
+    <rect x="625.53" y="62" width="129.87" height="10" fill="#F1E05A"/>
+    <rect x="755.40" y="62" width="46.43" height="10" fill="#8A5CD8"/>
+    <rect x="801.83" y="62" width="38.75" height="10" fill="#3572A5"/>
+    <rect x="840.59" y="62" width="99.41" height="10" fill="#4A5768"/>
+  </g>
+  <text x="60.0" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">32.6%</text>
+  <circle cx="63.5" cy="116.0" r="3.5" fill="#00B4AB"/>
+  <text x="74.0" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">Dart</text>
+  <text x="185.7" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">16.7%</text>
+  <circle cx="189.2" cy="116.0" r="3.5" fill="#DEA584"/>
+  <text x="199.7" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">Rust</text>
+  <text x="311.4" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">14.9%</text>
+  <circle cx="314.9" cy="116.0" r="3.5" fill="#E34C26"/>
+  <text x="325.4" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">HTML</text>
+  <text x="437.1" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">14.8%</text>
+  <circle cx="440.6" cy="116.0" r="3.5" fill="#F1E05A"/>
+  <text x="451.1" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">JavaScript</text>
+  <text x="562.9" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">5.3%</text>
+  <circle cx="566.4" cy="116.0" r="3.5" fill="#8A5CD8"/>
+  <text x="576.9" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">CSS</text>
+  <text x="688.6" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">4.4%</text>
+  <circle cx="692.1" cy="116.0" r="3.5" fill="#3572A5"/>
+  <text x="702.6" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">Python</text>
+  <text x="814.3" y="100.0" font-size="17" font-weight="600" fill="#C6D0DC">11.3%</text>
+  <circle cx="817.8" cy="116.0" r="3.5" fill="#4A5768"/>
+  <text x="828.3" y="120.0" font-size="13" font-weight="500" fill="#8E9EB2">Other</text>
+  <text x="60" y="164" font-size="12" font-weight="600" letter-spacing="1.6" fill="#5E6B7D">BY REPOSITORY</text>
+  <clipPath id="clipBYREPOSITORY"><rect x="60" y="180" width="880" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#clipBYREPOSITORY)">
+    <rect x="60" y="180" width="880" height="10" fill="#1B2434"/>
+    <rect x="60.00" y="180" width="251.43" height="10" fill="#00B4AB"/>
+    <rect x="311.43" y="180" width="167.62" height="10" fill="#F1E05A"/>
+    <rect x="479.05" y="180" width="125.71" height="10" fill="#DEA584"/>
+    <rect x="604.76" y="180" width="125.71" height="10" fill="#A97BFF"/>
+    <rect x="730.48" y="180" width="83.81" height="10" fill="#E34C26"/>
+    <rect x="814.29" y="180" width="41.90" height="10" fill="#B07219"/>
+    <rect x="856.19" y="180" width="83.81" height="10" fill="#4A5768"/>
+  </g>
+  <text x="60.0" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">28.6%</text>
+  <circle cx="63.5" cy="234.0" r="3.5" fill="#00B4AB"/>
+  <text x="74.0" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">Dart</text>
+  <text x="185.7" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">19.0%</text>
+  <circle cx="189.2" cy="234.0" r="3.5" fill="#F1E05A"/>
+  <text x="199.7" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">JavaScript</text>
+  <text x="311.4" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">14.3%</text>
+  <circle cx="314.9" cy="234.0" r="3.5" fill="#DEA584"/>
+  <text x="325.4" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">Rust</text>
+  <text x="437.1" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">14.3%</text>
+  <circle cx="440.6" cy="234.0" r="3.5" fill="#A97BFF"/>
+  <text x="451.1" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">Kotlin</text>
+  <text x="562.9" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">9.5%</text>
+  <circle cx="566.4" cy="234.0" r="3.5" fill="#E34C26"/>
+  <text x="576.9" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">HTML</text>
+  <text x="688.6" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">4.8%</text>
+  <circle cx="692.1" cy="234.0" r="3.5" fill="#B07219"/>
+  <text x="702.6" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">Java</text>
+  <text x="814.3" y="218.0" font-size="17" font-weight="600" fill="#C6D0DC">9.5%</text>
+  <circle cx="817.8" cy="234.0" r="3.5" fill="#4A5768"/>
+  <text x="828.3" y="238.0" font-size="13" font-weight="500" fill="#8E9EB2">Other</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="261" rx="18" fill="none" stroke="#1E2839"/>
+</svg>
