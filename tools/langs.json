@@ -1,0 +1,32 @@
+{
+ "by_bytes": {
+  "HTML": 1490141,
+  "Rust": 1671968,
+  "CSS": 526855,
+  "JavaScript": 1473648,
+  "RenderScript": 220,
+  "Java": 37872,
+  "SCSS": 37696,
+  "Dart": 3254843,
+  "C++": 184613,
+  "CMake": 139280,
+  "Swift": 295318,
+  "C": 14845,
+  "Kotlin": 403765,
+  "Objective-C": 378,
+  "Shell": 8897,
+  "Ruby": 5127,
+  "Python": 439737
+ },
+ "by_repo": {
+  "HTML": 2,
+  "JavaScript": 4,
+  "Java": 1,
+  "Rust": 3,
+  "CSS": 1,
+  "Dart": 6,
+  "Kotlin": 3,
+  "Python": 1
+ },
+ "n_repos": 22
+}

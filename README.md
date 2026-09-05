@@ -87,7 +87,7 @@ of this page does.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg">
-  <img alt="Language breakdown by code and by repository" src="./assets/languages-dark.svg" width="100%">
+  <img alt="Line chart of each language's share of code written against its share of repositories led" src="./assets/languages-dark.svg" width="100%">
 </picture>
 
 ## Get in touch
