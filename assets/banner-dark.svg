@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Sabbir Hassan — Full-stack developer and designer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#090D15"/><stop offset="100%" stop-color="#101825"/></linearGradient>
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4D9DFF"/><stop offset="100%" stop-color="#4D9DFF" stop-opacity="0.15"/></linearGradient>
-    <radialGradient id="glow"><stop offset="0%" stop-color="#4D9DFF" stop-opacity=".30"/><stop offset="100%" stop-color="#4D9DFF" stop-opacity="0"/></radialGradient>
-    <radialGradient id="flash"><stop offset="0%" stop-color="#4D9DFF" stop-opacity="0.85"/><stop offset="100%" stop-color="#4D9DFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0E0F0A"/><stop offset="100%" stop-color="#191B12"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#C0C27F"/><stop offset="100%" stop-color="#C0C27F" stop-opacity="0.15"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#C0C27F" stop-opacity=".30"/><stop offset="100%" stop-color="#C0C27F" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flash"><stop offset="0%" stop-color="#C0C27F" stop-opacity="0.85"/><stop offset="100%" stop-color="#C0C27F" stop-opacity="0"/></radialGradient>
     <clipPath id="card"><rect x="0.5" y="0.5" width="999" height="259" rx="18"/></clipPath>
     <filter id="beamGlow" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="260"><feGaussianBlur stdDeviation="3.2"/></filter>
     <filter id="beamCore" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="260"><feGaussianBlur stdDeviation="0.7"/></filter>
@@ -13,7 +13,7 @@
   </style>
   <g clip-path="url(#card)">
     <rect width="1000" height="260" fill="url(#bg)"/>
-    <g fill="#26324A">
+    <g fill="#33362A">
       <circle cx="508" cy="120" r="1" opacity="1"><animate attributeName="opacity" values="0.35;1;0.35" keyTimes="0;0.5;1" dur="7s" begin="0s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="534" cy="196" r="1.1" opacity="1"><animate attributeName="opacity" values="0.35;1;0.35" keyTimes="0;0.5;1" dur="7s" begin="0.83s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="560" cy="44" r="1.2" opacity="1"><animate attributeName="opacity" values="0.35;1;0.35" keyTimes="0;0.5;1" dur="7s" begin="1.66s" repeatCount="indefinite" calcMode="linear"/></circle>
@@ -33,7 +33,7 @@
       <circle cx="962" cy="84" r="1.1" opacity="1"><animate attributeName="opacity" values="0.35;1;0.35" keyTimes="0;0.5;1" dur="7s" begin="6.28s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="986" cy="166" r="1.2" opacity="1"><animate attributeName="opacity" values="0.35;1;0.35" keyTimes="0;0.5;1" dur="7s" begin="0.11s" repeatCount="indefinite" calcMode="linear"/></circle>
     </g>
-    <g stroke="#4D9DFF" fill="none" stroke-linecap="round">
+    <g stroke="#C0C27F" fill="none" stroke-linecap="round">
       <g stroke-width="1" stroke-opacity=".42"><path d="M575 88 L632 150 L700 106 L818 142 L902 96 L952 140 L884 190 L976 210"/></g>
       <g stroke-width="0.9" stroke-opacity=".20">
         <path d="M575 88 L690 44 L806 68 L902 96 L944 46"/>
@@ -44,7 +44,7 @@
         <path d="M976 210 L1020 246"/>
       </g>
     </g>
-    <g stroke="#4D9DFF" fill="none" stroke-linecap="round" filter="url(#beamGlow)">
+    <g stroke="#C0C27F" fill="none" stroke-linecap="round" filter="url(#beamGlow)">
       <path class="pulse" d="M575 88 L632 150 L700 106 L818 142 L902 96 L952 140 L884 190 L976 210" pathLength="100" stroke-width="3" stroke-dasharray="30 300" opacity="0"><animate attributeName="stroke-dashoffset" values="15;-85;-85" keyTimes="0;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.28;0.28;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/></path>
       <path class="pulse" d="M575 88 L632 150 L700 106 L818 142 L902 96 L952 140 L884 190 L976 210" pathLength="100" stroke-width="4" stroke-dasharray="18 300" opacity="0"><animate attributeName="stroke-dashoffset" values="9;-91;-91" keyTimes="0;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.4;0.4;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/></path>
       <path class="pulse" d="M575 88 L632 150 L700 106 L818 142 L902 96 L952 140 L884 190 L976 210" pathLength="100" stroke-width="5" stroke-dasharray="10 300" opacity="0"><animate attributeName="stroke-dashoffset" values="5;-95;-95" keyTimes="0;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.55;0.55;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/></path>
@@ -58,7 +58,7 @@
       <path class="pulse" d="M632 150 L600 214 L770 226 L742 182 L818 142 L884 190" pathLength="100" stroke-width="5" stroke-dasharray="10 300" opacity="0"><animate attributeName="stroke-dashoffset" values="5;-95;-95" keyTimes="0;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.55;0.55;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/></path>
       <path class="pulse" d="M632 150 L600 214 L770 226 L742 182 L818 142 L884 190" pathLength="100" stroke-width="6" stroke-dasharray="4 300" opacity="0"><animate attributeName="stroke-dashoffset" values="2;-98;-98" keyTimes="0;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.64;0.64;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/></path>
     </g>
-    <g stroke="#4D9DFF" fill="none" stroke-linecap="round" filter="url(#beamCore)">
+    <g stroke="#C0C27F" fill="none" stroke-linecap="round" filter="url(#beamCore)">
       <path class="pulse" d="M575 88 L632 150 L700 106 L818 142 L902 96 L952 140 L884 190 L976 210" pathLength="100" stroke-width="1.5" stroke-dasharray="5 300" opacity="0"><animate attributeName="stroke-dashoffset" values="2.5;-97.5;-97.5" keyTimes="0;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.78;0.78;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/></path>
       <path class="pulse" d="M575 88 L690 44 L806 68 L902 96 L944 46" pathLength="100" stroke-width="1.5" stroke-dasharray="5 300" opacity="0"><animate attributeName="stroke-dashoffset" values="2.5;-97.5;-97.5" keyTimes="0;0.44;1" dur="9s" begin="2.2s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.78;0.78;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="2.2s" repeatCount="indefinite" calcMode="linear"/></path>
       <path class="pulse" d="M632 150 L600 214 L770 226 L742 182 L818 142 L884 190" pathLength="100" stroke-width="1.5" stroke-dasharray="5 300" opacity="0"><animate attributeName="stroke-dashoffset" values="2.5;-97.5;-97.5" keyTimes="0;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.78;0.78;0;0" keyTimes="0;0.04;0.4;0.44;1" dur="9s" begin="4.4s" repeatCount="indefinite" calcMode="linear"/></path>
@@ -80,7 +80,7 @@
       <circle class="halo" cx="952" cy="140" r="10" fill="url(#flash)" opacity="0"><animate attributeName="opacity" values="0;0.7;0;0" keyTimes="0;0.03;0.18;1" dur="9s" begin="2.8368s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle class="halo" cx="976" cy="210" r="10" fill="url(#flash)" opacity="0"><animate attributeName="opacity" values="0;0.7;0;0" keyTimes="0;0.03;0.18;1" dur="9s" begin="3.96s" repeatCount="indefinite" calcMode="linear"/></circle>
     </g>
-    <g fill="#8E9EB2">
+    <g fill="#A39C85">
       <circle cx="575" cy="88" r="2.2" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="600" cy="214" r="1.8" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="5.01382s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="632" cy="150" r="2.6" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="0.529795s" repeatCount="indefinite" calcMode="linear"/></circle>
@@ -93,17 +93,17 @@
       <circle cx="952" cy="140" r="2" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="2.8368s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="976" cy="210" r="2.2" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="3.96s" repeatCount="indefinite" calcMode="linear"/></circle>
     </g>
-    <g fill="#4D9DFF">
+    <g fill="#C0C27F">
       <circle cx="818" cy="142" r="4.6" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="1.81536s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="884" cy="190" r="2.8" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="3.36775s" repeatCount="indefinite" calcMode="linear"/></circle>
       <circle cx="902" cy="96" r="3" opacity="1"><animate attributeName="opacity" values="0.5;1;0.5;0.5" keyTimes="0;0.02;0.14;1" dur="9s" begin="2.41782s" repeatCount="indefinite" calcMode="linear"/></circle>
     </g>
   </g>
-  <rect x="0.5" y="0.5" width="999" height="259" rx="18" fill="none" stroke="#1E2839"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="18" fill="none" stroke="#2C2F20"/>
   <g style="font-family: 'Segoe UI', Inter, system-ui, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
     <rect x="60" y="62" width="46" height="4" rx="2" fill="url(#rule)"/>
-    <text x="60" y="128" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#E9EEF4">Sabbir Hassan</text>
-    <text x="60" y="164" font-size="19" font-weight="500" letter-spacing="0.1" fill="#98A4B4">Full-stack developer &amp; designer</text>
-    <text x="60" y="199" font-size="13.5" font-weight="500" letter-spacing="1.6" fill="#5E6B7D">RUST  ·  FLUTTER  ·  TYPESCRIPT  ·  SABBIRHASSAN.COM</text>
+    <text x="60" y="128" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#EFECDF">Sabbir Hassan</text>
+    <text x="60" y="164" font-size="19" font-weight="500" letter-spacing="0.1" fill="#B3AE97">Full-stack developer &amp; designer</text>
+    <text x="60" y="199" font-size="13.5" font-weight="500" letter-spacing="1.6" fill="#7A7660">RUST  ·  FLUTTER  ·  TYPESCRIPT  ·  SABBIRHASSAN.COM</text>
   </g>
 </svg>

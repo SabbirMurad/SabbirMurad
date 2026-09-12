@@ -23,12 +23,18 @@ T, B = 84, 236   # plot band, top (= YMAX) and baseline (= 0%)
 YMAX, YSTEP = 40.0, 10.0
 
 THEMES = {
-    "dark":  dict(bg1="#090D15", bg2="#101825", border="#1E2839", grid="#1B2434",
-                  label="#5E6B7D", name="#C6D0DC", axis="#8E9EB2",
-                  a="#4D9DFF", b="#3DD6C0"),
-    "light": dict(bg1="#FFFFFF", bg2="#F1F5FA", border="#DFE7F1", grid="#E7EDF5",
-                  label="#8996A8", name="#2C3646", axis="#6B7889",
-                  a="#1565D8", b="#0E9C8A"),
+    # Sampled off the profile photo: olive from the shirt, cream from the
+    # trousers, and -- for the second series -- the blue-grey of the window
+    # behind him. A warm second colour (clay, tan) would sit closer to the
+    # olive than two data series should: under deuteranopia the pair collapses
+    # into one muddy yellow-brown. The blue-grey is ~150 degrees away in hue,
+    # so the two lines stay separable however they are seen.
+    "dark":  dict(bg1="#0E0F0A", bg2="#191B12", border="#2C2F20", grid="#252818",
+                  label="#7A7660", name="#D9D5C4", axis="#A39C85",
+                  a="#C0C27F", b="#8FA8BF"),
+    "light": dict(bg1="#FFFFFF", bg2="#F4F3EA", border="#E2DFCE", grid="#EDEBDD",
+                  label="#85826D", name="#33342A", axis="#6B6959",
+                  a="#6B7135", b="#4A6C87"),
 }
 
 FONT = ("font-family: 'Segoe UI', Inter, system-ui, -apple-system, "

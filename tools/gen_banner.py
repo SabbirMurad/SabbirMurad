@@ -33,12 +33,12 @@ FAINT = [(508,120),(534,196),(560,44),(596,120),(618,72),(654,244),(676,166),
          (916,160),(930,222),(962,84),(986,166)]
 
 THEMES = {
- "dark":  dict(bg1="#090D15", bg2="#101825", border="#1E2839", accent="#4D9DFF",
-               star="#8E9EB2", faint="#26324A", strong=".42", soft=".20", glow=".30",
-               name="#E9EEF4", role="#98A4B4", meta="#5E6B7D"),
- "light": dict(bg1="#FFFFFF", bg2="#F1F5FA", border="#DFE7F1", accent="#1565D8",
-               star="#93A5BC", faint="#DCE5F1", strong=".38", soft=".18", glow=".15",
-               name="#0B0E14", role="#4A5567", meta="#8996A8"),
+ "dark":  dict(bg1="#0E0F0A", bg2="#191B12", border="#2C2F20", accent="#C0C27F",
+               star="#A39C85", faint="#33362A", strong=".42", soft=".20", glow=".30",
+               name="#EFECDF", role="#B3AE97", meta="#7A7660"),
+ "light": dict(bg1="#FFFFFF", bg2="#F4F3EA", border="#E2DFCE", accent="#6B7135",
+               star="#9A9580", faint="#E4E2D2", strong=".38", soft=".18", glow=".15",
+               name="#14150E", role="#4F4F3E", meta="#85826D"),
 }
 
 # Readers who ask for less motion get the static constellation.
