@@ -23,20 +23,20 @@ of this page does.
 
 <!-- Keep this to 2-3 things you are actually touching this month. -->
 
-- **[Bento](https://github.com/SabbirMurad/bento)** — a Chrome new tab page you arrange yourself. Clock, bookmarks, shortcuts and search are pieces you move, restyle or switch off; nothing is fixed in place. Manifest V3, no build step, no dependencies.
-- **[Postura](https://github.com/SabbirMurad/postura_app)** — posture detection that runs on the phone. Flutter shell over a native Kotlin MediaPipe engine, with a [Python backend](https://github.com/SabbirMurad/postura_backend) behind it.
-- **[Fireball](https://github.com/SabbirMurad/fireball)** — hand landmarks tracked live on the camera feed, 21 points drawn straight onto the preview. Close your fist and open it and a fireball appears in your palm.
+- <a href="https://github.com/SabbirMurad/bento"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/bento-dark.svg"><img alt="Bento" src="./assets/names/bento-light.svg"></picture></a> — a Chrome new tab page you arrange yourself. Clock, bookmarks, shortcuts and search are pieces you move, restyle or switch off; nothing is fixed in place. Manifest V3, no build step, no dependencies.
+- <a href="https://github.com/SabbirMurad/postura_app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/postura-dark.svg"><img alt="Postura" src="./assets/names/postura-light.svg"></picture></a> — posture detection that runs on the phone. Flutter shell over a native Kotlin MediaPipe engine, with a [Python backend](https://github.com/SabbirMurad/postura_backend) behind it.
+- <a href="https://github.com/SabbirMurad/fireball"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/fireball-dark.svg"><img alt="Fireball" src="./assets/names/fireball-light.svg"></picture></a> — hand landmarks tracked live on the camera feed, 21 points drawn straight onto the preview. Close your fist and open it and a fireball appears in your palm.
 
 ## Selected work
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| [**Bento**](https://github.com/SabbirMurad/bento) | Fully rearrangeable Chrome new tab page | JavaScript · MV3 |
-| [**Fireball**](https://github.com/SabbirMurad/fireball) | Real-time hand tracking, Flutter shell bridged to a native ML engine | Flutter · Kotlin · MediaPipe |
-| [**Postura**](https://github.com/SabbirMurad/postura_app) | On-device posture detection — app, [engine](https://github.com/SabbirMurad/posture_detector) and [backend](https://github.com/SabbirMurad/postura_backend) | Flutter · Kotlin · Python |
-| [**Scaffold**](https://github.com/SabbirMurad/scaffold) | My starting point for a web service, hot reload and mkdocs docs wired up | Rust |
-| [**Fanari**](https://github.com/SabbirMurad/fanari_v2) | Mobile app with its own [service](https://github.com/SabbirMurad/fanari_backend) behind it | Flutter · Rust |
-| [**Portfolio**](https://github.com/SabbirMurad/portfolio) | Source for [sabbirhassan.com](https://sabbirhassan.com) | JavaScript |
+| <a href="https://github.com/SabbirMurad/bento"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/bento-dark.svg"><img alt="Bento" src="./assets/names/bento-light.svg"></picture></a> | Fully rearrangeable Chrome new tab page | JavaScript · MV3 |
+| <a href="https://github.com/SabbirMurad/fireball"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/fireball-dark.svg"><img alt="Fireball" src="./assets/names/fireball-light.svg"></picture></a> | Real-time hand tracking, Flutter shell bridged to a native ML engine | Flutter · Kotlin · MediaPipe |
+| <a href="https://github.com/SabbirMurad/postura_app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/postura-dark.svg"><img alt="Postura" src="./assets/names/postura-light.svg"></picture></a> | On-device posture detection — app, [engine](https://github.com/SabbirMurad/posture_detector) and [backend](https://github.com/SabbirMurad/postura_backend) | Flutter · Kotlin · Python |
+| <a href="https://github.com/SabbirMurad/scaffold"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/scaffold-dark.svg"><img alt="Scaffold" src="./assets/names/scaffold-light.svg"></picture></a> | My starting point for a web service, hot reload and mkdocs docs wired up | Rust |
+| <a href="https://github.com/SabbirMurad/fanari_v2"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/fanari-dark.svg"><img alt="Fanari" src="./assets/names/fanari-light.svg"></picture></a> | Mobile app with its own [service](https://github.com/SabbirMurad/fanari_backend) behind it | Flutter · Rust |
+| <a href="https://github.com/SabbirMurad/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/names/portfolio-dark.svg"><img alt="Portfolio" src="./assets/names/portfolio-light.svg"></picture></a> | Source for [sabbirhassan.com](https://sabbirhassan.com) | JavaScript |
 
 ## Stack
 
