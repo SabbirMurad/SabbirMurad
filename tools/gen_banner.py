@@ -185,7 +185,7 @@ def build(t):
     w('    <rect x="60" y="62" width="46" height="4" rx="2" fill="url(#rule)"/>\n')
     w('    <text x="60" y="128" font-size="46" font-weight="700" letter-spacing="-1.2" fill="%s">Sabbir Hassan</text>\n' % c["name"])
     w('    <text x="60" y="164" font-size="19" font-weight="500" letter-spacing="0.1" fill="%s">Full-stack developer &amp; designer</text>\n' % c["role"])
-    w('    <text x="60" y="199" font-size="13.5" font-weight="500" letter-spacing="1.6" fill="%s">RUST  \u00b7  FLUTTER  \u00b7  TYPESCRIPT  \u00b7  SABBIRHASSAN.COM</text>\n' % c["meta"])
+    w('    <text x="60" y="199" font-size="13.5" font-weight="500" letter-spacing="1.6" fill="%s">RUST  \u00b7  FLUTTER  \u00b7  C++  \u00b7  SABBIRHASSAN.COM</text>\n' % c["meta"])
     w('  </g>\n</svg>\n')
     return o.getvalue()
 
