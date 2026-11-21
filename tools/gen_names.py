@@ -65,6 +65,8 @@ LABELS = [
     ("sabbirhassan-com", "sabbirhassan.com", 400),
     ("email-me",         "Email me",         400),
     ("discord",          "Discord",          400),
+    ("linkedin",         "LinkedIn",         400),
+    ("resume",           "resume",           400),
 ]
 
 
